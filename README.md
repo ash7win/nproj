@@ -15,10 +15,15 @@ I have learnt the skills below while writing the corresponding scripts-
 
 6.tweet.py - learn to perform sentiment analysis on tweets based on a specific key word and store the result in a csv file.
 
-7. Project Files- These are project of my different subject in MSc in Data Analytics in Dublin Business School namely Machine Learning Project, Data Storage Project, Data Mining Project, Data Visualisation Project and proposal for Thesis in the last sem
+7. Representation project -A project to represent the various patches the trees grows in a particular area and which of them are flammable and how far are they away from a water source, apart from that another dataset was worked on, of employees where I represented various data points about the employees in a visual format. 
 
 8.Various data files for the code present in the file 
 
 9 Various practice codes I have made to while learning data analytics
 
 10. Tetris.py- a game I made while studying for my Thesis proposal.
+
+11. Muzero project - applying MuZero on a simple game namely Connect4 and Tic Tac Toe
+
+12. Fifa player value project- Here i used fifa 19 dataset to predict what a new player will be valued at using the values of existing players and finding other correlations between the features.
+13.
