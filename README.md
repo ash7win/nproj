@@ -14,3 +14,6 @@ machine learning projects on Python-
 12.	predict4.py - made to understand the syntax and usage of Bernoulli Naive Bayes.
 13.	Various data files for the code present in the file.
 14.	Various practice codes I have made to while learning data analytics
+15.	Sales Dashboard- Dashboard to track sales of retail store
+16.	earthquake_data - Dashboard that track various earthquakes all across the world, during one month of 2024
+17.	Retail_sales- dashboard that tracks sales of a particular store and it is sliced by category of product.
