@@ -18,3 +18,4 @@ machine learning projects on Python-
 16.	Sales Dashboard- Dashboard to track sales of retail store
 17.	earthquake_data - Dashboard that track various earthquakes all across the world, during one month of 2024
 18.	Retail_sales- dashboard that tracks sales of a particular store and it is sliced by category of product.
+19.	shot_visualisation- made a visualisation using Matplotlib, mplsoccer, pandas among others showing Erling Haaland's shots in the 2022-23 season, the xG, where the shots came from and the xG per shot.
