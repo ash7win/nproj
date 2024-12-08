@@ -13,9 +13,10 @@ machine learning projects on Python-
 11.	predict2.py - made to understand the syntax and usage of Support Vector Machine.
 12.	predict3.py - made to understand the syntax and usage of Gaussian Naive Bayes.
 13.	predict4.py - made to understand the syntax and usage of Bernoulli Naive Bayes.
-14.	Various data files for the code present in the file.
-15.	Various practice codes I have made to while learning data analytics
-16.	Sales Dashboard- Dashboard to track sales of retail store
-17.	earthquake_data - Dashboard that track various earthquakes all across the world, during one month of 2024
-18.	Retail_sales- dashboard that tracks sales of a particular store and it is sliced by category of product.
-19.	shot_visualisation- made a visualisation using Matplotlib, mplsoccer, pandas among others showing Erling Haaland's shots in the 2022-23 season, the xG, where the shots came from and the xG per shot.
+15.	Various data files for the code present in the file.
+16.	Various practice codes I have made to while learning data analytics
+17.	Sales Dashboard- Dashboard to track sales of retail store
+18.	earthquake_data - Dashboard that track various earthquakes all across the world, during one month of 2024
+19.	Retail_sales- dashboard that tracks sales of a particular store and it is sliced by category of product.
+20.	shot_visualisation- made a visualisation using Matplotlib, mplsoccer, pandas among others showing Erling Haaland's shots in the 2022-23 season, the xG, where the shots came from and the xG per shot.
+21.	FestMan Sales using DAX queries- Sales Dashboard made using multiple DAX queries.
